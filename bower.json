@@ -2,7 +2,8 @@
   "name": "modtagbitcoin.dk",
   "version": "1.0.0",
   "authors": [
-    "julian@contingent.dk"
+    "julian@contingent.dk",
+    "bwp@bwp.dk"
   ],
   "license": "n/a",
   "private": true,
@@ -14,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.2.12",
-	"bootstrap":"3.0.3"  
+    "bootstrap":"3.0.3"
   }
 }
